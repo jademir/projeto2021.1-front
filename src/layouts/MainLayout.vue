@@ -12,10 +12,9 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          FICR - Vuejs basics
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
